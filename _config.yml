@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3662872980901831
+  lightness: 0.6962550503585514
+  rhythmicContrast: 0.42805748443193703
+  saturation: 0.21848847751391254
+cta: {}
+layout_spectrum: 0.8164186788063571
+name: idt
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.4224559910677008
